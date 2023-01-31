@@ -1,2 +1,1 @@
-# puzzle-game
-puzzle game for GAME JAM.
+# image-puzzle-on-sdg
